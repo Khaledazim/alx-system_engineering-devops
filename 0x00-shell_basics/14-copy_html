@@ -1,2 +1,2 @@
 #!/bin/bash
-cp /directory1/.html /directory2
+cp -nu *.html .. 
